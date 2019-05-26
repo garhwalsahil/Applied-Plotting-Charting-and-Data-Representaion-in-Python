@@ -1,1 +1,1 @@
-Applied Plotting, Charting and Data Representaion  in Python
+Applied Plotting, Charting and Data Representaion in Python
